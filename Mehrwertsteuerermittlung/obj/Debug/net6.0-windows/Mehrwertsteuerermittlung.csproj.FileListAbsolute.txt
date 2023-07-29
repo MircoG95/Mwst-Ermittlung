@@ -1,0 +1,36 @@
+C:\Users\Mirco\Desktop\Testprojekt Mwst Rechner\Mehrwertsteuerermittlung\Mehrwertsteuerermittlung\bin\Debug\net6.0-windows\Mehrwertsteuerermittlung.exe
+C:\Users\Mirco\Desktop\Testprojekt Mwst Rechner\Mehrwertsteuerermittlung\Mehrwertsteuerermittlung\bin\Debug\net6.0-windows\Mehrwertsteuerermittlung.deps.json
+C:\Users\Mirco\Desktop\Testprojekt Mwst Rechner\Mehrwertsteuerermittlung\Mehrwertsteuerermittlung\bin\Debug\net6.0-windows\Mehrwertsteuerermittlung.runtimeconfig.json
+C:\Users\Mirco\Desktop\Testprojekt Mwst Rechner\Mehrwertsteuerermittlung\Mehrwertsteuerermittlung\bin\Debug\net6.0-windows\Mehrwertsteuerermittlung.dll
+C:\Users\Mirco\Desktop\Testprojekt Mwst Rechner\Mehrwertsteuerermittlung\Mehrwertsteuerermittlung\bin\Debug\net6.0-windows\Mehrwertsteuerermittlung.pdb
+C:\Users\Mirco\Desktop\Testprojekt Mwst Rechner\Mehrwertsteuerermittlung\Mehrwertsteuerermittlung\obj\Debug\net6.0-windows\Mehrwertsteuerermittlung.csproj.AssemblyReference.cache
+C:\Users\Mirco\Desktop\Testprojekt Mwst Rechner\Mehrwertsteuerermittlung\Mehrwertsteuerermittlung\obj\Debug\net6.0-windows\Mehrwertsteuerermittlung.Form1.resources
+C:\Users\Mirco\Desktop\Testprojekt Mwst Rechner\Mehrwertsteuerermittlung\Mehrwertsteuerermittlung\obj\Debug\net6.0-windows\Mehrwertsteuerermittlung.csproj.GenerateResource.cache
+C:\Users\Mirco\Desktop\Testprojekt Mwst Rechner\Mehrwertsteuerermittlung\Mehrwertsteuerermittlung\obj\Debug\net6.0-windows\Mehrwertsteuerermittlung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mirco\Desktop\Testprojekt Mwst Rechner\Mehrwertsteuerermittlung\Mehrwertsteuerermittlung\obj\Debug\net6.0-windows\Mehrwertsteuerermittlung.AssemblyInfoInputs.cache
+C:\Users\Mirco\Desktop\Testprojekt Mwst Rechner\Mehrwertsteuerermittlung\Mehrwertsteuerermittlung\obj\Debug\net6.0-windows\Mehrwertsteuerermittlung.AssemblyInfo.cs
+C:\Users\Mirco\Desktop\Testprojekt Mwst Rechner\Mehrwertsteuerermittlung\Mehrwertsteuerermittlung\obj\Debug\net6.0-windows\Mehrwertsteuerermittlung.csproj.CoreCompileInputs.cache
+C:\Users\Mirco\Desktop\Testprojekt Mwst Rechner\Mehrwertsteuerermittlung\Mehrwertsteuerermittlung\obj\Debug\net6.0-windows\Mehrwertsteuerermittlung.dll
+C:\Users\Mirco\Desktop\Testprojekt Mwst Rechner\Mehrwertsteuerermittlung\Mehrwertsteuerermittlung\obj\Debug\net6.0-windows\refint\Mehrwertsteuerermittlung.dll
+C:\Users\Mirco\Desktop\Testprojekt Mwst Rechner\Mehrwertsteuerermittlung\Mehrwertsteuerermittlung\obj\Debug\net6.0-windows\Mehrwertsteuerermittlung.pdb
+C:\Users\Mirco\Desktop\Testprojekt Mwst Rechner\Mehrwertsteuerermittlung\Mehrwertsteuerermittlung\obj\Debug\net6.0-windows\Mehrwertsteuerermittlung.genruntimeconfig.cache
+C:\Users\Mirco\Desktop\Testprojekt Mwst Rechner\Mehrwertsteuerermittlung\Mehrwertsteuerermittlung\obj\Debug\net6.0-windows\ref\Mehrwertsteuerermittlung.dll
+C:\Users\Mirco\Desktop\Testprojekt Mwst Rechner\Mehrwertsteuerermittlung\Mehrwertsteuerermittlung\obj\Debug\net6.0-windows\Mehrwertsteuerermittlung.Form2.resources
+C:\Users\Mirco\Desktop\CodingProgramme\C#\SCHAU NACH DIESEN PROJEKTEN\Testprojekt Mwst Rechner\Mehrwertsteuerermittlung\Mehrwertsteuerermittlung\bin\Debug\net6.0-windows\Mehrwertsteuerermittlung.exe
+C:\Users\Mirco\Desktop\CodingProgramme\C#\SCHAU NACH DIESEN PROJEKTEN\Testprojekt Mwst Rechner\Mehrwertsteuerermittlung\Mehrwertsteuerermittlung\bin\Debug\net6.0-windows\Mehrwertsteuerermittlung.deps.json
+C:\Users\Mirco\Desktop\CodingProgramme\C#\SCHAU NACH DIESEN PROJEKTEN\Testprojekt Mwst Rechner\Mehrwertsteuerermittlung\Mehrwertsteuerermittlung\bin\Debug\net6.0-windows\Mehrwertsteuerermittlung.runtimeconfig.json
+C:\Users\Mirco\Desktop\CodingProgramme\C#\SCHAU NACH DIESEN PROJEKTEN\Testprojekt Mwst Rechner\Mehrwertsteuerermittlung\Mehrwertsteuerermittlung\bin\Debug\net6.0-windows\Mehrwertsteuerermittlung.dll
+C:\Users\Mirco\Desktop\CodingProgramme\C#\SCHAU NACH DIESEN PROJEKTEN\Testprojekt Mwst Rechner\Mehrwertsteuerermittlung\Mehrwertsteuerermittlung\bin\Debug\net6.0-windows\Mehrwertsteuerermittlung.pdb
+C:\Users\Mirco\Desktop\CodingProgramme\C#\SCHAU NACH DIESEN PROJEKTEN\Testprojekt Mwst Rechner\Mehrwertsteuerermittlung\Mehrwertsteuerermittlung\obj\Debug\net6.0-windows\Mehrwertsteuerermittlung.csproj.AssemblyReference.cache
+C:\Users\Mirco\Desktop\CodingProgramme\C#\SCHAU NACH DIESEN PROJEKTEN\Testprojekt Mwst Rechner\Mehrwertsteuerermittlung\Mehrwertsteuerermittlung\obj\Debug\net6.0-windows\Mehrwertsteuerermittlung.Form1.resources
+C:\Users\Mirco\Desktop\CodingProgramme\C#\SCHAU NACH DIESEN PROJEKTEN\Testprojekt Mwst Rechner\Mehrwertsteuerermittlung\Mehrwertsteuerermittlung\obj\Debug\net6.0-windows\Mehrwertsteuerermittlung.Form2.resources
+C:\Users\Mirco\Desktop\CodingProgramme\C#\SCHAU NACH DIESEN PROJEKTEN\Testprojekt Mwst Rechner\Mehrwertsteuerermittlung\Mehrwertsteuerermittlung\obj\Debug\net6.0-windows\Mehrwertsteuerermittlung.csproj.GenerateResource.cache
+C:\Users\Mirco\Desktop\CodingProgramme\C#\SCHAU NACH DIESEN PROJEKTEN\Testprojekt Mwst Rechner\Mehrwertsteuerermittlung\Mehrwertsteuerermittlung\obj\Debug\net6.0-windows\Mehrwertsteuerermittlung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mirco\Desktop\CodingProgramme\C#\SCHAU NACH DIESEN PROJEKTEN\Testprojekt Mwst Rechner\Mehrwertsteuerermittlung\Mehrwertsteuerermittlung\obj\Debug\net6.0-windows\Mehrwertsteuerermittlung.AssemblyInfoInputs.cache
+C:\Users\Mirco\Desktop\CodingProgramme\C#\SCHAU NACH DIESEN PROJEKTEN\Testprojekt Mwst Rechner\Mehrwertsteuerermittlung\Mehrwertsteuerermittlung\obj\Debug\net6.0-windows\Mehrwertsteuerermittlung.AssemblyInfo.cs
+C:\Users\Mirco\Desktop\CodingProgramme\C#\SCHAU NACH DIESEN PROJEKTEN\Testprojekt Mwst Rechner\Mehrwertsteuerermittlung\Mehrwertsteuerermittlung\obj\Debug\net6.0-windows\Mehrwertsteuerermittlung.csproj.CoreCompileInputs.cache
+C:\Users\Mirco\Desktop\CodingProgramme\C#\SCHAU NACH DIESEN PROJEKTEN\Testprojekt Mwst Rechner\Mehrwertsteuerermittlung\Mehrwertsteuerermittlung\obj\Debug\net6.0-windows\Mehrwertsteuerermittlung.dll
+C:\Users\Mirco\Desktop\CodingProgramme\C#\SCHAU NACH DIESEN PROJEKTEN\Testprojekt Mwst Rechner\Mehrwertsteuerermittlung\Mehrwertsteuerermittlung\obj\Debug\net6.0-windows\refint\Mehrwertsteuerermittlung.dll
+C:\Users\Mirco\Desktop\CodingProgramme\C#\SCHAU NACH DIESEN PROJEKTEN\Testprojekt Mwst Rechner\Mehrwertsteuerermittlung\Mehrwertsteuerermittlung\obj\Debug\net6.0-windows\Mehrwertsteuerermittlung.pdb
+C:\Users\Mirco\Desktop\CodingProgramme\C#\SCHAU NACH DIESEN PROJEKTEN\Testprojekt Mwst Rechner\Mehrwertsteuerermittlung\Mehrwertsteuerermittlung\obj\Debug\net6.0-windows\Mehrwertsteuerermittlung.genruntimeconfig.cache
+C:\Users\Mirco\Desktop\CodingProgramme\C#\SCHAU NACH DIESEN PROJEKTEN\Testprojekt Mwst Rechner\Mehrwertsteuerermittlung\Mehrwertsteuerermittlung\obj\Debug\net6.0-windows\ref\Mehrwertsteuerermittlung.dll

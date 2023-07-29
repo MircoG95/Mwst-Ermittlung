@@ -1,0 +1,5 @@
+C:\Users\Mirco\Desktop\MwstErmittlung\Mehrwertsteuerermittlung.exe
+C:\Users\Mirco\Desktop\MwstErmittlung\Mehrwertsteuerermittlung.dll
+C:\Users\Mirco\Desktop\MwstErmittlung\Mehrwertsteuerermittlung.deps.json
+C:\Users\Mirco\Desktop\MwstErmittlung\Mehrwertsteuerermittlung.runtimeconfig.json
+C:\Users\Mirco\Desktop\MwstErmittlung\Mehrwertsteuerermittlung.pdb
